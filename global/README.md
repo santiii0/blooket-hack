@@ -20,9 +20,8 @@ fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/bypass
 
 # floodGames.js
 
-Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/floodGames.js").then((res) => res.text().then((t) => eval(t)))
+This has been desactivated!! 
 ```
 
 # getAllBlooksInGame.js
